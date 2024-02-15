@@ -31,4 +31,14 @@
  * If Yearly change < 0 then color "Red"
 
 ## Result - 2018 
-    
+
+  ![2018 results](2018-screenshot.png)
+
+## Result - 2019
+
+  ![2019 results](2019-screenshot.png)
+      
+## Result - 2020
+
+  ![2020 results](2020-screenshot.png)
+     
