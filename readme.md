@@ -14,4 +14,21 @@
  * Find Percentage Change
      * yearly change/ opening price * 100
             
-        
+ ## Module 2 - Compare ( Result Of Module 1)
+
+ * Find Greatest% Increase
+ * Find Greatest% Decrease
+ * Find total stock volume
+      * For each unique ticker
+      * Initialize the volume to 0
+      * iterate over each row and add value to the total volume
+         
+## Module 3 - Color_Range (Result Of Module 2)
+
+ * Iterate through entire worksheet
+ * iterate through each unique ticker
+ * If yearly change > 0 then color "Green"
+ * If Yearly change < 0 then color "Red"
+
+## Result - 2018 
+    
