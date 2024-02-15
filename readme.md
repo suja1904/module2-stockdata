@@ -18,7 +18,7 @@
             
  ## Module 2 - Compare ( Result Of Module 1)
 
- [script](module2-compare.bas)
+ [script](Module2-compare.bas)
 
  * Find Greatest% Increase
  * Find Greatest% Decrease
@@ -29,7 +29,7 @@
          
 ## Module 3 - Color_Range (Result Of Module 2)
 
-[script](module3-color_range)
+[script](Module3-color_range.bas)
 
  * Iterate through entire worksheet
  * iterate through each unique ticker
