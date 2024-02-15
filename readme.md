@@ -2,6 +2,8 @@
 
 ## Module 1 - Stocks
 
+[script](module1-stock.bas)
+
  * Iterate through the entire worksheet
  * Find unique ticker
      * Store ticker value in a variable 
@@ -16,6 +18,8 @@
             
  ## Module 2 - Compare ( Result Of Module 1)
 
+ [script](module2-compare.bas)
+
  * Find Greatest% Increase
  * Find Greatest% Decrease
  * Find total stock volume
@@ -24,6 +28,8 @@
       * iterate over each row and add value to the total volume
          
 ## Module 3 - Color_Range (Result Of Module 2)
+
+[script](module3-color_range)
 
  * Iterate through entire worksheet
  * iterate through each unique ticker
