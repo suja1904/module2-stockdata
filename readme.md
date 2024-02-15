@@ -42,3 +42,12 @@
 
   ![2020 results](2020-screenshot.png)
      
+## References
+
+  * Class Activities
+      * Starcount
+      * FizzBuzz
+      * creditcard
+      * student census
+        
+        
